@@ -6,7 +6,7 @@
   <img height=400 align="center" src="https://github-readme-stats-beryl-five-19.vercel.app/api?username=ehimen-io&hide_rank=true&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/ehimen-io/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats-beryl-five-19.vercel.app/api/top-langs?username=ehimen-io&layout=donut&langs_count=8&card_width=320&exclude_repo=personal-budget-api,to-do-list,portfolio,react-portfolio&theme=tokyonight" />
+  <img height=400 align="center" src="https://github-readme-stats-beryl-five-19.vercel.app/api/top-langs?username=ehimen-io&layout=donut&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <!---
