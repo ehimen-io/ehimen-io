@@ -11,7 +11,7 @@
 
 - 📄 Detailed resume: [https://ehimen.notion.site/Detailed-Resume-e70f895fdabf441b9d95d86613c462f1](https://ehimen.notion.site/Detailed-Resume-e70f895fdabf441b9d95d86613c462f1)
 
-- ⚡ Fun fact: **I also make music (https://soundcloud.com/owenehi) and my software development goal is to build music production software catered to Hip Hop and Rap**
+- ⚡ Fun fact: **I also make music (https://soundcloud.com/owenehi)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
