@@ -52,8 +52,6 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehimen-io&" alt="ehimen-io" /></p>
-
 <!---
 thelostprofessor/thelostprofessor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
