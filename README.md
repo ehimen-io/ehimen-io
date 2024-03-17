@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owens</h1>
 <h3 align="center">A software developer from Toronto with a passion for problem solving</h3>
 
-- 🔭 I’m currently working on [bulding my own java-based programming language interpreter (eventually to produce music with)](https://github.com/ehimen-io/LoxTune)
-
 - 🌱 I’m currently studying **computer science at Georgia Tech, with a focus on building scalable computing systems**
 
 - 💬 Ask me about **anything between Digital Strategy to Data Structures and Algorithms**
